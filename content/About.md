@@ -1,7 +1,7 @@
 ---
 title: ""
 date: 
-layout: ""
+layout: "about"
 
 ---
 ## My name is Spencer.
