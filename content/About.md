@@ -4,7 +4,6 @@ date: 2023-08-16T00:41:28-04:00
 layout: "about"
 
 ---
-![targets](/mecircle.png)
 
 ## I'm Spencer Karau.
 **Thanks for checking out my site!**
