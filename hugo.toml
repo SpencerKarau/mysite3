@@ -5,8 +5,8 @@ theme = 'PaperMod'
 canonifyURLs = true
 
 [params.homeInfoParams]
-Title = "Hi there!"
-Content = "I am a Master's student currently working on plant data at the University of Ottawa. If you are interested in seeing the currently private repository for my thesis, please let me know!"
+Title = "Hello!"
+Content = "Welcome to my site! Here you will find some posts about my research aswell as some personal information about me."
 
 [[params.socialIcons]]
 Title = 'LinkedIn'

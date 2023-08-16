@@ -1,15 +1,13 @@
 ---
-title: "cv"
-date: 2023-08-16T00:41:28-04:00
-layout: "cv"
+title: ""
+date: 
+
 
 ---
 
 
 ## CONTACT
 613-762-1962 • Spencerkarau@gmail.com • Ottawa, ON K2C-0T6
-
-
 
 
 ## SUMMARY
@@ -45,8 +43,7 @@ settings.
 
 ## WORK EXPERIENCE
 
-**Data Scientist/Analyst** 
-
+**Data Scientist/Analyst**\
 *Statistics Canada | Ottawa, ON | Jan 2020-Current*
 
 • Organized and communicated with multiple teams in order to facilitate the assembly, validation and 
@@ -62,8 +59,7 @@ survey procedures
 • Communicated information and data clearly to team-members, other government employees, and 
 members of the public
 
-**Assistant Survey Methodologist**
-
+**Assistant Survey Methodologist**\
 *Statistics Canada | Ottawa, ON | May 2019-Aug 2019*
 
 • Used SAS and Excel to manipulate, query, and analyze large sets of data
@@ -78,9 +74,8 @@ members of the public
 
 
 ## EDUCATION
-**Master of Science: Biology**
-
-*University Of Ottawa | Ottawa, ON | September 2016 - June 2021*
+**Master of Science: Biology**\
+*University Of Ottawa | Ottawa, ON | September 2022 - August 2024*
 
 • Thesis title: Using biological traits to predict the rate at which invasive plants will spread across new ranges.
 
@@ -88,8 +83,7 @@ members of the public
 
 • Recipient of the Queen Elizabeth II Graduate Scholarship in Science and Technology (QEII-GSST) for the academic year 2023-2024 ($15,000)
 
-**Bachelor of Science: Environmental Science**
-
+**Bachelor of Science: Environmental Science**\
 *University Of Ottawa | Ottawa, ON | September 2016 - June 2021*
 
 • Specialization in Geochemistry and Ecotoxicology
