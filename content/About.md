@@ -5,7 +5,7 @@ layout: ""
 
 ---
 ## My name is Spencer.
-![targets](/me.png)
+
 
 **Thanks for checking out my site!**
 
