@@ -6,7 +6,7 @@ layout: "about"
 ---
 ![targets](/mecircle.png)
 
-## I'm Spencer Karau
+## I'm Spencer Karau.
 **Thanks for checking out my site!**
 
 I am an ambitious data science professional well-versed in working with large datasets, breaking down information and communicating results clearly.I'm a practiced statistical programmer with experience using geospatial tools. I am an adaptable and driven individual with a strong work ethic and the ability to thrive in team-based or individually motivated settings.
