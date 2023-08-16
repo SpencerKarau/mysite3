@@ -6,7 +6,7 @@ canonifyurls = true
 
 [params.homeInfoParams]
 Title = "Hello!"
-Content = "Welcome to my site! Here you will find some posts about my research aswell as some personal information about me."
+Content = "Welcome to my site! Here you will find some posts about my research as well as some personal information about me."
 
 [[params.socialIcons]]
 Title = 'LinkedIn'
