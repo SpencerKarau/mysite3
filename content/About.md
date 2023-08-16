@@ -1,7 +1,7 @@
 ---
 title: ""
-date: 
-layout: "about"
+date: 2023-08-16T00:41:28-04:00
+layout: ""
 
 ---
 ## My name is Spencer.

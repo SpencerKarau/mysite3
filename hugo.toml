@@ -2,7 +2,7 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Spencer Karau'
 theme = 'PaperMod'
-canonifyURLs = true
+
 
 [params.homeInfoParams]
 Title = "Hello!"
