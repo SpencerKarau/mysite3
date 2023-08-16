@@ -19,17 +19,26 @@ Adaptable and driven with strong work ethic and the ability to thrive in team-ba
 settings.
 
 
-
-
 ## SKILLS
-Microsoft Office
-RStudio
-Statistical analysis
-GIS (ArcGIS, Leaflet)
-PowerBI
-Project management
-Public speaking
-Technical writing
+• Microsoft Office
+
+• RStudio
+
+• Statistical analysis
+
+• GIS (ArcGIS, Leaflet)
+
+• GitHub/Git
+
+• Hugo
+
+• PowerBI
+
+• Project management
+
+• Public speaking
+
+• Technical writing
 
 
 
@@ -69,6 +78,15 @@ members of the public
 
 
 ## EDUCATION
+**Master of Science: Biology**
+
+*University Of Ottawa | Ottawa, ON | September 2016 - June 2021*
+
+• Thesis title: Using biological traits to predict the rate at which invasive plants will spread across new ranges.
+
+• Recipient of a 7,500$ Admission Scholarship
+
+• Recipient of the Queen Elizabeth II Graduate Scholarship in Science and Technology (QEII-GSST) for the academic year 2023-2024 ($15,000)
 
 **Bachelor of Science: Environmental Science**
 
@@ -84,10 +102,11 @@ members of the public
 
 • Recipient of a 4000$ Admission Scholarship
 
+## PUBLICATIONS
+**Coming Soon**
 
 
-
-## RESEARCH PROJECTS
+## RESEARCH EXPERIENCE
 
 **Field Research Technician**
 
