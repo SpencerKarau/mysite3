@@ -97,7 +97,8 @@ members of the public
 • Recipient of a 4000$ Admission Scholarship
 
 ## PUBLICATIONS
-**Coming Soon**
+
+Haley, A.L., T.A. Lemieux, M.L. Piczak, S. Karau, A. D’Addario, R.L. Irvine, C. Beaudouin, J.R. Bennett and S.J. Cooke.  In Press.  On the effectiveness of public awareness campaigns for the management of invasive species.  *Environmental Conservation*.  00:000-000.
 
 
 ## RESEARCH EXPERIENCE
