@@ -102,8 +102,7 @@ members of the public
 
 ## RESEARCH EXPERIENCE
 
-**Field Research Technician**
-
+**Field Research Technician**\
 *University of Ottawa (Blouin-Demers Lab) | Ottawa, ON | May 2018 - Aug 2018*
 
 • Preformed field collections for a population genetics study relating to the migration strategies of
@@ -119,8 +118,7 @@ channel catfish in the Ottawa River and its tributaries
 
 • Participated in discussions regarding research methodologies
 
-**Class Research Project: Modelling the Effects of Temperature/Precipitation on Desert Plants**
-
+**Class Research Project: Modelling the Effects of Temperature/Precipitation on Desert Plants**\
 *University of Ottawa (Population and Community Ecology) | Ottawa, ON | Oct 2020-Dec 2020*
 
 • Analyzed and extracted data regarding specific variables from extremely large data sets using R
