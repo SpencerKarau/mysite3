@@ -9,10 +9,10 @@
     <lastBuildDate>Thu, 17 Aug 2023 10:12:29 -0400</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The plan for this site!</title>
-      <link>http://example.org/posts/roadmap/</link>
+      <link>http://example.org/posts/my-first-post/</link>
       <pubDate>Thu, 17 Aug 2023 10:12:29 -0400</pubDate>
       
-      <guid>http://example.org/posts/roadmap/</guid>
+      <guid>http://example.org/posts/my-first-post/</guid>
       <description>After two years of contemplating, I finally decided to try building a website. Gaining inspiration from the https://plantarum.ca/ website of my thesis co-supervisor, I decided to look into creating a static site with Hugo. I plan for this site to serve as a general directory for my contact information, CV, and newsfeed regarding what I have been up to!
 I also hope to update this site with progress on my research over the course of the next year.</description>
     </item>
