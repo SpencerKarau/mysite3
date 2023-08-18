@@ -1,10 +1,10 @@
 ---
-title: "My Second Post"
+title: "Test post"
 date: 2023-08-16T10:21:48-04:00
 
 ---
 
-## This is my second post!
+## This is a test post!
 
 
 
