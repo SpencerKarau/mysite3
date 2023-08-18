@@ -1,7 +1,6 @@
 ---
 title: "The plan for this site!"
-date: 2023-08-17T10:12:29-04:00
-
+date: 2023-08-17T22:14:24-04:00
 ---
 
 ### After two years of contemplating, I finally decided to try building a website.
