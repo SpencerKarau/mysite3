@@ -98,7 +98,7 @@ members of the public
 
 ## PUBLICATIONS
 
-Haley, A.L., T.A. Lemieux, M.L. Piczak, S. Karau, A. D’Addario, R.L. Irvine, C. Beaudouin, J.R. Bennett and S.J. Cooke.  In Press.  On the effectiveness of public awareness campaigns for the management of invasive species.  *Environmental Conservation*.  00:000-000.
+Haley, A., Lemieux, T., Piczak, M., Karau, S., D’Addario, A., Irvine, R., . . . Cooke, S. (2023). On the effectiveness of public awareness campaigns for the management of invasive species. Environmental Conservation, 1-10. doi:10.1017/S037689292300019X
 
 
 ## RESEARCH EXPERIENCE
