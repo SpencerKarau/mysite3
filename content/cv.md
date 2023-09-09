@@ -7,7 +7,7 @@ date: 2023-08-16T00:41:28-04:00
 
 
 ## CONTACT
-613-762-1962 • Spencerkarau@gmail.com • Ottawa, ON K2C-0T6
+skara076@uottawa.ca • Spencerkarau@gmail.com • Ottawa, ON K2C-0T6
 
 
 ## SUMMARY

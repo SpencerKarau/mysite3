@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Spencer Karau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Aug 2023 22:14:24 -0400</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Sep 2023 16:44:21 -0400</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Article</title>
+      <link>http://example.org/posts/my-first-article/</link>
+      <pubDate>Sat, 09 Sep 2023 16:44:21 -0400</pubDate>
+      
+      <guid>http://example.org/posts/my-first-article/</guid>
+      <description>First article published as of 2023-08-22. This article stemmed from work completed during the first semester of my degree! Thank you to everyone who made this work possible. The paper is titled &amp;ldquo;On the effectiveness of public awareness campaigns for the management of invasive species&amp;rdquo; and was published in environmental conservation.
+Abstract: Invasive species can have disastrous effects on the ecosystems they invade, requiring costly, labour-intensive mitigation. Public awareness campaigns are often used as a tool to reduce these species’ impacts.</description>
+    </item>
+    
     <item>
       <title>The plan for this site!</title>
       <link>http://example.org/posts/roadmap/</link>
