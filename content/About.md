@@ -6,7 +6,7 @@ layout: ""
 ---
 ## My name is Spencer.
 
-![](/mecircle.png)
+![image_alt](/mecircle.png)
 
 
 **Thanks for checking out my site!**
