@@ -6,7 +6,7 @@ layout: ""
 ---
 ## My name is Spencer.
 
-![photo_of_me](/mecircle.png#center)
+![photo_of_me](images/mecircle.png#center)
 
 
 **Thanks for checking out my site!**
