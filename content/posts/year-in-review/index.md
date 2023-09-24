@@ -4,7 +4,9 @@ date: 2023-09-15T10:58:56-04:00
 draft: false
 ---
 
-### Please find below a slide show detailing the work performed in the first year of my masters.
+### Please find below a slide show detailing the work performed in the first year of my masters. 
+
+This is just a rough presentation meant to quickly show off results and thoughts! I plan on creating a more polished presentation once I have more data.
 
 ![slide1](images/Slide1.JPG#center)
 ![slide2](images/Slide2.JPG#center)
