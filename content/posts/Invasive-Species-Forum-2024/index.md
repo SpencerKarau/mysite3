@@ -8,7 +8,26 @@ draft: false
 
 ![isc](images/isc.png#center)
 
-This presentation is designed to be a visual supplement to my oral presentation and as such, it may be difficult to follow on its own. Nonetheless, I wanted to upload it for posterity! This presentation builds and improves upon my previous posts.
+This presentation is designed to be a visual supplement to my oral presentation and as such, it may be difficult to follow on its own. Nonetheless, I wanted to upload it for posterity! This presentation builds and improves upon my previous posts. 
+
+
+### ** Update February 27th, 2024 **
+
+This presentation has occured! Find below a recording of the talk:
+
+
+  
+
+{{< youtube DL9OEgi0578>}}
+
+  
+
+
+
+### Find the slides below.
+
+  
+
 
 ![slide1](images/Slide1.JPG#center)
 ![slide2](images/Slide2.JPG#center)
